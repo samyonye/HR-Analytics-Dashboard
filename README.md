@@ -1,16 +1,17 @@
 # HR-Analytics-Dashboard
 
 HR Analytics in Action: Revealing the True Story Behind Employee Attrition
-Introduction
-Story of data
-Data splitting and preprocessing
-Pre-analysis
-In-analysis
-Post-analysis and insight
-Data visualization and charts
-Recommendation and observation
-Conclusion
-References and appendices
+
+1. Introduction
+2. Story of data
+3. Data splitting and preprocessing
+4. Pre-analysis
+5. In-analysis
+6. Post-analysis and insight
+7. Data visualization and charts
+8. Recommendation and observation
+9. Conclusion
+10. References and appendices
 
 Introduction
 The HR Analytics Dashboard provides a comprehensive overview of employee attrition patterns within a company of 1,470 employees. It tracks key human resources metrics including attrition rate, job satisfaction, tenure, demographic distribution, and factors contributing to workforce turnover such as education field, job role, department, age, and marital status.
